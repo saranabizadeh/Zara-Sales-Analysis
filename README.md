@@ -1,13 +1,14 @@
 # Zara Sales Analysis
 ## Data Analytics Project
 
-![image](https://imgur.com/a/NTnn7XR)
+<img width="768" height="512" alt="ZARA" src="https://github.com/user-attachments/assets/e02c762f-9efd-418a-a6b0-11e180637094" />
+[Image credit](https://www.blogto.com/real-estate-toronto/2021/04/iconic-kims-convenience-store-for-sale-toronto/)
 
 #### Background
 Zara is a premier Spanish fast-fashion retailer, renowned for its affordable apparel, accessories, beauty, and perfumes. The data contains sales primarily from its clothing selection, and includes data such as product position, season, and price.
 
 #### Business Task
-Analyse sales data and determine weak areas and opportunities to boost sales.
+Clean and analyse sales data and determine weak areas and opportunities to boost sales.
 
 #### Business Questions
 - What type of clothing performs best?
@@ -31,4 +32,4 @@ Excel for Data Cleaning, Data Visualisation and Data Analysis
 #### Data Set
 The data set is publicly available on [Kaggle](https://www.kaggle.com/datasets/ayeshaseherr/buisness-sales).
 
-![image](https://imgur.com/a/NWv2EqE)
+<img width="2090" height="1016" alt="image" src="https://github.com/user-attachments/assets/fb3e6a19-682c-4671-bd9a-2c8e9250de63" />
