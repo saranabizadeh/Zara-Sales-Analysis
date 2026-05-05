@@ -2,6 +2,7 @@
 ## Data Analytics Project
 
 <img width="768" height="512" alt="ZARA" src="https://github.com/user-attachments/assets/e02c762f-9efd-418a-a6b0-11e180637094" />
+
 [Image credit](https://www.blogto.com/real-estate-toronto/2021/04/iconic-kims-convenience-store-for-sale-toronto/)
 
 #### Background
