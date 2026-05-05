@@ -1,2 +1,34 @@
-# Zara-Sales-Analysis
-Using Excel, Pivot Tables, and charts, I analyzed a retail sales dataset to identify the biggest drivers of revenue and sales volume.
+# Zara Sales Analysis
+## Data Analytics Project
+
+![image](https://imgur.com/a/NTnn7XR)
+
+#### Background
+Zara is a premier Spanish fast-fashion retailer, renowned for its affordable apparel, accessories, beauty, and perfumes. The data contains sales primarily from its clothing selection, and includes data such as product position, season, and price.
+
+#### Business Task
+Analyse sales data and determine weak areas and opportunities to boost sales.
+
+#### Business Questions
+- What type of clothing performs best?
+- Which season generates the highest sales?
+- Do promotions increase sales?
+- Does product placement affect sales volume?
+- How much does price affect revenue?
+
+### Recommendations and Conclusion
+- Continue promotions on key products (jackets and lower-priced items), and test promotions during slower seasons (Spring and Summer).
+- Expand inventory in low-price ranges and reevaluate pricing strategy for medium/high-priced items.
+- Place best-margin products in aisle positions and rotate underperforming items into aisle spots for testing.
+- Increase jacket inventory ahead of peak seasons and expand on jacket styles/colors/sizes.
+- Increase stock levels before Autumn, launch marketing campaigns late Summer / early Autumn, and schedule staffing for higher demand periods.
+
+- Sales are primarily driven by affordable pricing, strong product placement, high-demand jacket products, effective promotions, and Autumn seasonality. Zara should prioritize affordible low-priced jackets in aisle placements during Autumn, supported by targeted promotions. These findings are correlational and may require further testing before implementation.
+
+#### Tools
+Excel for Data Cleaning, Data Visualisation and Data Analysis
+
+#### Data Set
+The data set is publicly available on [Kaggle](https://www.kaggle.com/datasets/ayeshaseherr/buisness-sales).
+
+![image](https://imgur.com/a/NWv2EqE)
