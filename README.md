@@ -18,6 +18,13 @@ Clean and analyse sales data and determine weak areas and opportunities to boost
 - Does product placement affect sales volume?
 - How much does price affect revenue?
 
+#### Findings
+- Promotions increased average sales volume by 15.68%.
+- Low-priced products gained more in revenue than medium-priced products by 73.46% and high-priced products by 684.64%
+- Aisle product positions outperformed end-cap positions by 13.96% and front of store positions by 36.59%.
+- Jackets outperformed all other product types.
+- Seasonal demand peaked in Autumn.
+
 ### Recommendations and Conclusion
 - Continue promotions on key products (jackets and lower-priced items), and test promotions during slower seasons (Spring and Summer).
 - Expand inventory in low-price ranges and reevaluate pricing strategy for medium/high-priced items.
