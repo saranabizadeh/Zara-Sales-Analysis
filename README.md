@@ -40,4 +40,6 @@ Excel for Data Cleaning, Data Visualisation and Data Analysis
 #### Data Set
 The data set is publicly available on [Kaggle](https://www.kaggle.com/datasets/ayeshaseherr/buisness-sales).
 
+### Final Dashboard with KPIs and Interactable Slicers
+
 <img width="2090" height="1016" alt="image" src="https://github.com/user-attachments/assets/fb3e6a19-682c-4671-bd9a-2c8e9250de63" />
